@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For TM1638Custom
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ 
+TM1638Custom	KEYWORD1
+StatusBarEnum   KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ 
+setStatusBar    KEYWORD2
+setPercentage     KEYWORD2
+displayDecNumNibble    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+OVERRIDDEN_ERROR_DATA   LITERAL1
