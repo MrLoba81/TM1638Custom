@@ -48,6 +48,9 @@ void loop() {
   disp.setStatusBar(THREE);
   delay(1000);
 
+  disp.displayDecNumNibble(8888, 8888, 15, 15, false);
+  delay(1500);
+  
   disp.setDisplayToError();
   delay(1000);
 }
